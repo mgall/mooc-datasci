@@ -1,3 +1,6 @@
+# Virtual Machine file
+.vagrant
+
 # History files
 .Rhistory
 
