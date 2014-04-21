@@ -1,0 +1,10 @@
+[user]
+	name = Marco Galletti
+	email = hello@marcogalletti.com
+[alias]
+	ci = commit
+	st = status -sbu
+	co = checkout
+	br = branch
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	resethead = reset --hard HEAD
